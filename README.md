@@ -35,17 +35,6 @@ Este projeto tem como objetivo principal **prever a evasão de clientes (churn)*
 #### Correlação positiva
 <img src='img/corr_pos.png'>
 
-#### Correlação negativa
-<img src='img/corr_neg.png'>
-
-- Boxplots para `charges.Total` e `tenure`, evidenciando diferenças entre clientes que evadiram e os que permaneceram.
-<img src='img/boxplot.png'>
-
-- Matriz de Confusão de todos os modelos.
-<img src='img/matrizes_inicial.png'>
-<img src='img/matrizes_secundaria.png'>
-
-As imagens estão organizadas na pasta `img/`.
 
 ---
 
