@@ -70,7 +70,7 @@ pip install -r ML/requirements.txt
 pip3 install -r ML/requirements.txt
 
 ### Autor
-Projeto desenvolvido por Marcus Miller como parte de um desafio de análise de dados no setor de telecomunicações.
+Projeto desenvolvido por Marcus Miller como parte de um desafio de análise de dados da alura.
 
 ### Licença
 Projeto para fins educacionais.
